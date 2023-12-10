@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @DipS1017
-- 👀 I’m interested in Programming web application.
-- 🌱 I’m currently learning react and node.js.
-- 💞️ I’m looking to collaborate on any website that requires basic skill to contribute.
-
-<!---
-DipS1017/DipS1017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello
+I'm Dipesh from Nepal. I really enjoy learning languages and frameworks (currently learning MERN). I currently can create fullstack project with html,css,JS,Wordpress,php, Mysql. I'm also improving my capabilities focusing on UI,Ux designs. 
