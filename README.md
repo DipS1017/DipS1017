@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on multiple web development project<br>👯 I’m looking to collaborate on any web projects<br>🌱 I’m currently learning competitive programming<br>💬 Ask me about anything regarding web development<br>⚡ Fun fact i love sports and music
+🔭 I’m currently working on  web development project<br>👯 I’m looking to collaborate on any web projects<br>💬 Ask me about anything regarding web development<br>
 
 
 ## 🌐 Socials:
