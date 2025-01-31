@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Dipesh Shrestha</h1>
 
 
-<h3 align="center">Backend-focused Fullstack developer specializing in building scalable APIs, optimizing server logic, and managing databases.</h3>
+<h3 align="center">Full-stack developer focused on backend specializing in building scalable APIs, optimizing server logic, and managing databases.</h3>
 
 ![banner](https://github.com/user-attachments/assets/45537e6c-749b-4976-9bfb-36477c00ee04)
 
