@@ -7,11 +7,7 @@
 <h3 align="center">Backend-focused developer specializing in building scalable APIs, optimizing server logic, and managing databases.</h3>
 
 ![banner](https://github.com/user-attachments/assets/45537e6c-749b-4976-9bfb-36477c00ee04)
-<p align="center">
 
-  <img src="https://github.com/user-attachments/assets/caf8630c-6a81-472e-92a0-ceb6a0bea3bf" alt="pompo-the-cinephile-intense-typing-fast-a3gxlpppgfe3c54t" width="250" height="100" />
-    <img src="https://github.com/user-attachments/assets/1c0b8ba8-3c8d-4667-a26b-877e1500100b" alt="helloworld-helloworld-print" width="250" height="100" />
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dips1017&label=Profile%20views&color=0e75b6&style=flat" alt="dips1017" /> </p>
 
 
