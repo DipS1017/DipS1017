@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dips1017&label=Profile%20views&color=0e75b6&style=flat" alt="dips1017" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dips1017&theme=radical" alt="dips1017" /></a> </p>
+
 
 
 
