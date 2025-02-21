@@ -6,7 +6,6 @@
 
 <h3 align="center">Full-stack developer focused on backend specializing in building scalable APIs, optimizing server logic, and managing databases.</h3>
 
-![banner](https://github.com/user-attachments/assets/45537e6c-749b-4976-9bfb-36477c00ee04)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dips1017&label=Profile%20views&color=0e75b6&style=flat" alt="dips1017" /> </p>
 
