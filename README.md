@@ -19,7 +19,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dips1017&show_icons=true&theme=tokyonight&locale=en&layout=compact&count_private=true&hide_border=true&bg_color=0d1117&hide=cmake,css,swift,dart,javascript,html,c++" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dips1017&show_icons=true&theme=catppuccin_mocha&locale=en&layout=compact&count_private=true&border_color=ca9ee6&hide=cmake,css,swift,dart,javascript,html,c++" />
     </td>
     <td width="50%">
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=true" alt="quote"/>
