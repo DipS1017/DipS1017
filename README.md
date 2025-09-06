@@ -6,8 +6,8 @@
 <div>
 <p align="center">
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=go,ts,nodejs,express,postgres,mongodb,redis,bash" />
-    <img src="https://skillicons.dev/icons?i=linux,arch,neovim,docker,postman,git" />
+    <img src="https://skillicons.dev/icons?i=go,ts,postgres,mongodb,redis,bash,rabbitmq,nginx" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,neovim,docker,kubernetes,githubactions,prometheus,grafana,postman,git" />
 </a>
 </p>
 
