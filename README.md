@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Dipesh Shrestha, a Software Engineer.</h1>
+<h1 align="left">Hello 👋</h1>
 
 
 
